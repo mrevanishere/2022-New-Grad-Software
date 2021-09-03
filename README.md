@@ -10,8 +10,6 @@ Mainly focused on USA.
 
 | Company Name              | Location                         | Application URL                                              | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Accenture || [Application Portal](https://acn.avature.net/en_US/talentPortal/Methods?jobId=19967) ||
-| Test | USA | Link | notes |
 | F5 Networks ||||
 | Earnin ||||
 | Juniper Networks ||||
@@ -116,18 +114,3 @@ Mainly focused on USA.
 | The Voleon Group ||||
 | vmware ||||
 | stytch ||||
-LinkedIn ||||
-Twilio ||||
-Gem ||||
-Kapwing ||||
-Verkada ||||
-Anduril Industries  ||||
-Benchling ||||
-Affirm ||||
-okta ||||
-Nuro ||||
-Duolingo ||||
-Clever ||||
-Redfin ||||
-Applied Intuition  ||||
-Citrix ||||
