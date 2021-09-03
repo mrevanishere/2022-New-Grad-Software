@@ -33,6 +33,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Discovery | Washington ||
 | Indeed | Remote US, Tokyo | [Remote, USA](https://ur-careers-indeed.icims.com/jobs/32368/job) |
 | SeatGeek | NY ||
 | F5 Networks | Bay Area ||
