@@ -143,6 +143,7 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Intel | various postings
 | Indeed | 
 | amdocs |
 | SAP | Rotational
