@@ -144,6 +144,7 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Revantage |
 | Public Sapient | 
 | Intel | various postings
 | amdocs |
