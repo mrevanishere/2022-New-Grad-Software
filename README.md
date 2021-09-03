@@ -1,6 +1,11 @@
 # 2022-New-Grad
 By unit_test
 
+- [FAQ](#faq)
+- [Disclaimer](#disclaimer)
+- [Postings](#postings)
+- [More Postings](#more-postings)
+
 ### Disclaimer
 * This is more of a personal list and doesn't have *every* posting. Sorry.
 * Mainly focused on USA.
@@ -127,7 +132,7 @@ I applied to
 | stytch | Bay Area ||
 | Nvidia || Various |
 
-# More
+# More Postings
 Companies I didn't apply to
 
 | Company Name              | Notes |
