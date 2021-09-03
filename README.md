@@ -5,7 +5,7 @@ By unit_test
 * This is more of a personal list and doesn't have *every* posting. Sorry.
 * Mainly focused on USA.
 * I won't post links unless hard to find.
-* I'm trying to be as accurate as possible for 2022 postings (no random junior positions or 2021 postings)
+* I'm trying to be as accurate as possible for 2022 postings (no random junior positions or 2021 postings unless specified in the description)
 * New postings added to top
 * Postings separated into `Postings I applied to` and `Postings I didn't apply to`
 
