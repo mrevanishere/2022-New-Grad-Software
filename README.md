@@ -14,8 +14,8 @@ By unit_test
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
-1. | F5 Networks | Bay Area ||
-1. | Earnin | Bay Area ||
+| F5 Networks | Bay Area ||
+| Earnin | Bay Area ||
 | Juniper Networks | Bay Area ||
 | Kensho Technologies  || on Canvas |
 | Emile Learning | Los Angeles | on Angel |
