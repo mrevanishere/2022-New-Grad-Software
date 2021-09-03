@@ -33,7 +33,8 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| SeatGeek | NY ||| 
+| Indeed | Remote | https://ur-careers-indeed.icims.com/jobs/32368/job |
+| SeatGeek | NY ||
 | F5 Networks | Bay Area ||
 | Earnin | Bay Area ||
 | Juniper Networks | Bay Area ||
