@@ -14,55 +14,55 @@ By unit_test
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| F5 Networks |||
-| Earnin |||
-| Juniper Networks |||
+| F5 Networks | Bay Area ||
+| Earnin | Bay Area ||
+| Juniper Networks | Bay Area ||
 | Kensho Technologies  || on Canvas |
-| Emile Learning || on Angel |
-| cadence |||
-| NerdWallet |||
-| Sunshine |||
-| Circle |||
-| Gem |||
+| Emile Learning | Los Angeles | on Angel |
+| cadence | Bay Area ||
+| NerdWallet | Remote ||
+| Sunshine | Remote,  Bay Area ||
+| Circle | Remote ||
+| Gem | Bay Area ||
 | Bloomberg |||
-| Oracle |||
-| HubSpot |||
-| Elastic |||
-| Stripe |||
-| DraftKings |||
-| SeedFi || on Canvas |
-| GoDaddy || on Canvas |
-| ServiceNow |||
+| Oracle | Bay Area ||
+| HubSpot | Remote ||
+| Elastic | Bay Area ||
+| Stripe | Bay Area ||
+| DraftKings | Bay Area ||
+| SeedFi | Bay Area | on Canvas |
+| GoDaddy | Remote | on Canvas |
+| ServiceNow | Bay Area ||
 | McDonald's |||
-| DoorDash |||
-| Viasat |||
-| Rev |||
-| Vise |||
-| Twitch || Can apply to entry level |
-| Pinterest |||
-| TikTok |||
-| Jerry |||
-| SingleStore (MemSQL) |||
-| Workday |||
-| Otter AI |||
-| Tubular Labs |||
-| Hewlett Packard Enterprise |||
-| Yext |||
-| Blend |||
-| WeRide AI |||
-| Scale AI |||
+| DoorDash | Bay Area ||
+| Viasat | Bay Area ||
+| Rev | Bay Area, Austin ||
+| Vise | Bay Area, NYC ||
+| Twitch | Bay Area | Can apply to entry level |
+| Pinterest | Bay Area ||
+| TikTok | Bay Area ||
+| Jerry | Bay Area ||
+| SingleStore (MemSQL) | Washington ||
+| Workday | Bay Area ||
+| Otter AI | Bay Area ||
+| Tubular Labs | Bay Area ||
+| Hewlett Packard Enterprise | Bay Area ||
+| Yext | NYC ||
+| Blend | Bay Area ||
+| WeRide AI | Bay Area ||
+| Scale AI | Bay Area ||
 | Cisco |||
 | Apple || Early Careers |
 | Google  || Early Careers, Campus|
-| Nordstrom || SWE I |
-| Uber |||
-| Zoom |||
-| Databricks  |||
+| Nordstrom | Washington| SWE I |
+| Uber | Bay Area ||
+| Zoom | Bay Area ||
+| Databricks  | Bay Area ||
 | Instabase |||
 | Redfin |||
 | Twilio |||
 | Plaid |||
-| SambaNova Systems |||
+| SambaNova Systems | Bay Area ||
 | Veeva |||
 | Chime |||
 | Snap |||
@@ -83,27 +83,27 @@ By unit_test
 | Visa |||
 | Quora |||
 | Datadog |||
-| IXL Learning |||
+| IXL Learning | Bay Area ||
 | Affirm |||
-| Cruise |||
-| neeva |||
-| Duolingo |||
+| Cruise | Bay Area ||
+| neeva | Bay Area ||
+| Duolingo | Pittsburgh ||
 | Nuro |||
-| Paypal |||
+| Paypal | Bay Area ||
 | secureframe |||
 | JPMorgan |||
 | Optiver |||
-| Roblox |||
-| citrix |||
-| Facebook |||
+| Roblox | Bay Area ||
+| citrix | Bay Area ||
+| Facebook | Bay Area ||
 | Robinhood |||
-| Qualtrics |||
-| Walmart Labs |||
-| DocuSign |||
-| Nova Credit |||
+| Qualtrics | Washington ||
+| Walmart Labs | Bay Area ||
+| DocuSign | Bay Area ||
+| Nova Credit | Bay Area ||
 | Comcast || Rotational |
 | Microsoft |||
-| Brex |||
+| Brex | Remote ||
 | Palantir |||
 | Capital Group |||
 | Goldman Sachs |||
@@ -111,11 +111,11 @@ By unit_test
 | Akuna Capital |||
 | SIG |||
 | Vanguard |||
-| Asana |||
+| Asana | Bay Area ||
 | Amazon  |||
-| The Voleon Group |||
-| vmware || Launch |
-| stytch |||
+| The Voleon Group | Bay Area ||
+| vmware | Bay Area, Remote| Launch |
+| stytch | Bay Area ||
 | Nvidia || Various |
 
 # Postings I didn't apply to
@@ -127,7 +127,6 @@ By unit_test
 | Grubhub | 
 | Western Digital |
 | Johnson & Johnson |
-| Capital Group |
 | DRW |
 | Five Rings |
 | McKinsey |
