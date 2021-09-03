@@ -1,13 +1,6 @@
 # 2022-New-Grad
 By unit_test
 
-- [FAQ](#FAQ)
-- [Disclaimer](#disclaimer)
-- [Postings](#Postings_I_applied_to)
-- [Other Postings](#Postings_I_didn't_apply_to)
-
-
-
 ### Disclaimer
 * This is more of a personal list and doesn't have *every* posting. Sorry.
 * Mainly focused on USA.
@@ -17,14 +10,16 @@ By unit_test
 * Postings separated into `Postings I applied to` and `Postings I didn't apply to`
 
 ### FAQ
+
 #### Is this repo up to date?
-* I will try to update it once a day with relevant postings
+* I will try to update it once a day with companies that open up their new grad applications
 #### Where do I search for job postings?
 * LinkedIn search bar with `software grad` and `Past 24 hours` filters
 * Some companies post on Indeed/Canvas only
 * Small companies that pay well may have postings on Angel
 
-# Postings I applied to
+# Postings
+I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
@@ -132,7 +127,8 @@ By unit_test
 | stytch | Bay Area ||
 | Nvidia || Various |
 
-# Postings I didn't apply to
+# More
+Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
