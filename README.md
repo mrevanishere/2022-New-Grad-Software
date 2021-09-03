@@ -15,8 +15,8 @@ I'm trying to be as accurate as possible for 2022 postings (no random junior pos
 | F5 Networks ||||
 | Earnin ||||
 | Juniper Networks ||||
-| Kensho Technologies  ||||
-| Emile Learning ||||
+| Kensho Technologies  ||| on Canvas |
+| Emile Learning ||| on Angel |
 | cadence ||||
 | NerdWallet ||||
 | Sunshine ||||
@@ -28,15 +28,15 @@ I'm trying to be as accurate as possible for 2022 postings (no random junior pos
 | Elastic ||||
 | Stripe ||||
 | DraftKings ||||
-| SeedFi ||||
-| GoDaddy ||||
+| SeedFi ||| on Canvas |
+| GoDaddy ||| on Canvas |
 | ServiceNow ||||
 | McDonald's ||||
 | DoorDash ||||
 | Viasat ||||
 | Rev ||||
 | Vise ||||
-| Twitch ||||
+| Twitch ||| Can apply to entry level |
 | Pinterest ||||
 | TikTok ||||
 | Jerry ||||
@@ -50,9 +50,9 @@ I'm trying to be as accurate as possible for 2022 postings (no random junior pos
 | WeRide AI ||||
 | Scale AI ||||
 | Cisco ||||
-| Apple ||||
-| Google  ||||
-| Nordstrom ||||
+| Apple ||| Early Careers |
+| Google  ||| Early Careers, Campus|
+| Nordstrom ||| SWE I |
 | Uber ||||
 | Zoom ||||
 | Databricks  ||||
@@ -68,7 +68,7 @@ I'm trying to be as accurate as possible for 2022 postings (no random junior pos
 | Wealthfront ||||
 | Level ||||
 | Coinbase ||||
-| SpaceX ||||
+| SpaceX ||| Can apply to entry level |
 | anyscale ||||
 | Figma ||||
 | Ironclad ||||
@@ -77,7 +77,6 @@ I'm trying to be as accurate as possible for 2022 postings (no random junior pos
 | IBM ||||
 | Anduril Industries  ||||
 | Benchling ||||
-| Salesforce ||||
 | Verkada ||||
 | Visa ||||
 | Quora ||||
@@ -98,10 +97,9 @@ I'm trying to be as accurate as possible for 2022 postings (no random junior pos
 | Robinhood ||||
 | Qualtrics ||||
 | Walmart Labs ||||
-| vmware ||||
 | DocuSign ||||
 | Nova Credit ||||
-| Comcast ||||
+| Comcast ||| Rotational |
 | Microsoft ||||
 | Brex ||||
 | Palantir ||||
@@ -114,9 +112,9 @@ I'm trying to be as accurate as possible for 2022 postings (no random junior pos
 | Asana ||||
 | Amazon  ||||
 | The Voleon Group ||||
-| vmware ||||
+| vmware ||| Launch |
 | stytch ||||
-| Nvidia ||||
+| Nvidia ||| Various |
 
 # Other postings I'm not applying to / haven't applied to yet:
 
@@ -159,5 +157,5 @@ I'm trying to be as accurate as possible for 2022 postings (no random junior pos
 | zscaler |
 | Raytheon |
 | SAP | Rotational
-| Swoop Search | 
+| Swoop Search | on Angel
 
