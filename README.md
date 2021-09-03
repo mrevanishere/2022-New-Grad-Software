@@ -33,6 +33,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| SeatGeek | NY ||| 
 | F5 Networks | Bay Area ||
 | Earnin | Bay Area ||
 | Juniper Networks | Bay Area ||
