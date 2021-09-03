@@ -22,6 +22,10 @@ By unit_test
 * LinkedIn search bar with `software grad` and `Past 24 hours` filters
 * Some companies post on Indeed/Canvas only
 * Small companies that pay well may have postings on Angel
+* Other repos
+  *   [https://github.com/TribbianniSun/NewGrad-2022](https://github.com/TribbianniSun/NewGrad-2022)
+  *   [https://github.com/coderQuad/New-Grad-Positions-2022](https://github.com/coderQuad/New-Grad-Positions-2022)
+  *   [https://github.com/quantprep/quantnewgrad2022](https://github.com/quantprep/quantnewgrad2022)
 
 # Postings
 I applied to
