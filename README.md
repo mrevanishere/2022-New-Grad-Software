@@ -1,8 +1,12 @@
 # 2022-New-Grad
 By unit_test
 
-### Is this repo up to date?
-* I will try to update it once a day with relevant postings
+- [FAQ](#FAQ)
+- [Disclaimer](#disclaimer)
+- [Postings I applied to](# Postings I applied to)
+- [Postings I didn't apply to](# Postings I didn't apply to)
+
+
 
 ### Disclaimer
 * This is more of a personal list and doesn't have *every* posting. Sorry.
@@ -12,7 +16,10 @@ By unit_test
 * New postings added to top
 * Postings separated into `Postings I applied to` and `Postings I didn't apply to`
 
-### Tips for finding postings
+### FAQ
+#### Is this repo up to date?
+* I will try to update it once a day with relevant postings
+#### Where do I search for job postings?
 * LinkedIn search bar with `software grad` and `Past 24 hours` filters
 * Some companies post on Indeed/Canvas only
 * Small companies that pay well may have postings on Angel
