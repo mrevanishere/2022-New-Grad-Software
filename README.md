@@ -187,3 +187,4 @@ Companies I didn't apply to
 | Lockheed Martin |
 | Cognex |
 | HNTB |
+| Honeywell |
