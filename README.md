@@ -2,10 +2,11 @@
 By unit_test
 
 ### Disclaimer
-This is more of a personal list and doesn't have *every* posting. Sorry.
-Mainly focused on USA.
-I won't post links unless hard to find.
-I'm trying to be as accurate as possible for 2022 postings (no random junior positions or 2021 postings)
+*This is more of a personal list and doesn't have *every* posting. Sorry.
+*Mainly focused on USA.
+*I won't post links unless hard to find.
+*I'm trying to be as accurate as possible for 2022 postings (no random junior positions or 2021 postings)
+*New postings added to top
 
 
 # Postings
