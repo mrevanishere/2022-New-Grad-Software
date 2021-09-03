@@ -4,6 +4,7 @@ By unit_test
 ### Disclaimer
 My list doesn't have *every* posting. Sorry.
 Mainly focused on USA.
+I won't post links unless hard to find.
 
 
 # Postings
@@ -114,3 +115,26 @@ Mainly focused on USA.
 | The Voleon Group ||||
 | vmware ||||
 | stytch ||||
+| Nvidia ||||
+
+# Other postings I'm not applying to:
+
+| Company Name              |
+| ------------------------  |
+| Jane Street |
+| HRT |
+| Grubhub | 
+| Western Digital |
+| Johnson & Johnson |
+| Capital Group |
+| DRW |
+| Five Rings |
+| McKinsey |
+| Morgan Stanley |
+| Belvedere Trading |
+| Red Ventures |
+| IMC |
+| General Motors |
+| PEAK 6 |
+| L3Harris |
+| Secureframe | 
