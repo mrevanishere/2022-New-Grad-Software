@@ -2,9 +2,10 @@
 By unit_test
 
 ### Disclaimer
-My list doesn't have *every* posting. Sorry.
+This is more of a personal list and doesn't have *every* posting. Sorry.
 Mainly focused on USA.
 I won't post links unless hard to find.
+I'm trying to be as accurate as possible for 2022 postings (no random junior positions or 2021 postings)
 
 
 # Postings
@@ -117,10 +118,10 @@ I won't post links unless hard to find.
 | stytch ||||
 | Nvidia ||||
 
-# Other postings I'm not applying to:
+# Other postings I'm not applying to / haven't applied to yet:
 
-| Company Name              |
-| ------------------------  |
+| Company Name              | Notes |
+| ------------------------  | ------------------------  |
 | Jane Street |
 | HRT |
 | Grubhub | 
@@ -137,4 +138,26 @@ I won't post links unless hard to find.
 | General Motors |
 | PEAK 6 |
 | L3Harris |
-| Secureframe | 
+| Keysight Technologies |
+| MathWorks |
+| Amazon Robotics |
+| Citadel |
+| Point72 |
+| FactSet |
+| TD |
+| Blackstone |
+| EAB |
+| ADP |
+| RBI |
+| Paylocity | 
+| Lockheed Martin |
+| Cognex |
+| HNTB |
+| TJX |
+| Mastercard |
+| amdocs |
+| zscaler |
+| Raytheon |
+| SAP | Rotational
+| Swoop Search | 
+
