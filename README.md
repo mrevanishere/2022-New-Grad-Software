@@ -1,6 +1,9 @@
 # 2022-New-Grad
 By unit_test
 
+### Is this repo up to date?
+* I will try to update it once a day with relevant postings
+
 ### Disclaimer
 * This is more of a personal list and doesn't have *every* posting. Sorry.
 * Mainly focused on USA.
