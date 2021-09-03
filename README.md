@@ -15,7 +15,8 @@ By unit_test
 * Postings separated into `Postings I applied to` and `Postings I didn't apply to`
 
 ### FAQ
-
+#### How to apply to jobs faster (greenhouse, workday, lever)
+* Use [Kumquat Extension](https://chrome.google.com/webstore/detail/kumquat/mkjkimankkfhefaabddppkhbobffaadp?hl=en-US)
 #### Is this repo up to date?
 * I will try to update it once a day with companies that open up their new grad applications
 #### Where do I search for job postings?
