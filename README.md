@@ -9,6 +9,10 @@ By unit_test
 * New postings added to top
 * Postings separated into `Postings I applied to` and `Postings I didn't apply to`
 
+### Tips for finding postings
+* LinkedIn is always first
+* Some companies post on Indeed/Canvas only
+* Small companies that pay well may have postings on Angel
 
 # Postings I applied to
 
