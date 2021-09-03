@@ -188,3 +188,4 @@ Companies I didn't apply to
 | Cognex |
 | HNTB |
 | Honeywell |
+| PRC Resources |
