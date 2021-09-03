@@ -48,75 +48,75 @@ By unit_test
 | Tubular Labs |||
 | Hewlett Packard Enterprise |||
 | Yext |||
-| Blend ||||
-| WeRide AI ||||
-| Scale AI ||||
-| Cisco ||||
-| Apple ||| Early Careers |
-| Google  ||| Early Careers, Campus|
-| Nordstrom ||| SWE I |
-| Uber ||||
-| Zoom ||||
-| Databricks  ||||
-| Instabase ||||
-| Redfin ||||
-| Twilio ||||
-| Plaid ||||
-| SambaNova Systems ||||
-| Veeva ||||
-| Chime ||||
-| Snap ||||
-| Verily Life Sciences ||||
-| Wealthfront ||||
-| Level ||||
-| Coinbase ||||
-| SpaceX ||| Can apply to entry level |
-| anyscale ||||
-| Figma ||||
-| Ironclad ||||
-| Ripple ||||
-| Rippling ||||
-| IBM ||||
-| Anduril Industries  ||||
-| Benchling ||||
-| Verkada ||||
-| Visa ||||
-| Quora ||||
-| Datadog ||||
-| IXL Learning ||||
-| Affirm ||||
-| Cruise ||||
-| neeva ||||
-| Duolingo ||||
-| Nuro ||||
-| Paypal ||||
-| secureframe ||||
-| JPMorgan ||||
-| Optiver ||||
-| Roblox ||||
-| citrix ||||
-| Facebook ||||
-| Robinhood ||||
-| Qualtrics ||||
-| Walmart Labs ||||
-| DocuSign ||||
-| Nova Credit ||||
-| Comcast ||| Rotational |
-| Microsoft ||||
-| Brex ||||
-| Palantir ||||
-| Capital Group ||||
-| Goldman Sachs ||||
-| Fidelity ||||
-| Akuna Capital ||||
-| SIG ||||
-| Vanguard ||||
-| Asana ||||
-| Amazon  ||||
-| The Voleon Group ||||
-| vmware ||| Launch |
-| stytch ||||
-| Nvidia ||| Various |
+| Blend |||
+| WeRide AI |||
+| Scale AI |||
+| Cisco |||
+| Apple || Early Careers |
+| Google  || Early Careers, Campus|
+| Nordstrom || SWE I |
+| Uber |||
+| Zoom |||
+| Databricks  |||
+| Instabase |||
+| Redfin |||
+| Twilio |||
+| Plaid |||
+| SambaNova Systems |||
+| Veeva |||
+| Chime |||
+| Snap |||
+| Verily Life Sciences |||
+| Wealthfront |||
+| Level |||
+| Coinbase |||
+| SpaceX || Can apply to entry level |
+| anyscale |||
+| Figma |||
+| Ironclad |||
+| Ripple |||
+| Rippling |||
+| IBM |||
+| Anduril Industries  |||
+| Benchling |||
+| Verkada |||
+| Visa |||
+| Quora |||
+| Datadog |||
+| IXL Learning |||
+| Affirm |||
+| Cruise |||
+| neeva |||
+| Duolingo |||
+| Nuro |||
+| Paypal |||
+| secureframe |||
+| JPMorgan |||
+| Optiver |||
+| Roblox |||
+| citrix |||
+| Facebook |||
+| Robinhood |||
+| Qualtrics |||
+| Walmart Labs |||
+| DocuSign |||
+| Nova Credit |||
+| Comcast || Rotational |
+| Microsoft |||
+| Brex |||
+| Palantir |||
+| Capital Group |||
+| Goldman Sachs |||
+| Fidelity |||
+| Akuna Capital |||
+| SIG |||
+| Vanguard |||
+| Asana |||
+| Amazon  |||
+| The Voleon Group |||
+| vmware || Launch |
+| stytch |||
+| Nvidia || Various |
 
 # Postings I didn't apply to
 
