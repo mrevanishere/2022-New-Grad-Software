@@ -12,42 +12,42 @@ By unit_test
 
 # Postings I applied to
 
-| Company Name              | Location                         | Application URL                                              | Notes                                                        |
-| ------------------------- | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| F5 Networks ||||
-| Earnin ||||
-| Juniper Networks ||||
-| Kensho Technologies  ||| on Canvas |
-| Emile Learning ||| on Angel |
-| cadence ||||
-| NerdWallet ||||
-| Sunshine ||||
-| Circle ||||
-| Gem ||||
-| Bloomberg ||||
-| Oracle ||||
-| HubSpot ||||
-| Elastic ||||
-| Stripe ||||
-| DraftKings ||||
-| SeedFi ||| on Canvas |
-| GoDaddy ||| on Canvas |
-| ServiceNow ||||
-| McDonald's ||||
-| DoorDash ||||
-| Viasat ||||
-| Rev ||||
-| Vise ||||
-| Twitch ||| Can apply to entry level |
-| Pinterest ||||
-| TikTok ||||
-| Jerry ||||
-| SingleStore (MemSQL) ||||
-| Workday ||||
-| Otter AI ||||
-| Tubular Labs ||||
-| Hewlett Packard Enterprise ||||
-| Yext ||||
+| Company Name              | Location                         | Notes                                                        |
+| ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| F5 Networks |||
+| Earnin |||
+| Juniper Networks |||
+| Kensho Technologies  || on Canvas |
+| Emile Learning || on Angel |
+| cadence |||
+| NerdWallet |||
+| Sunshine |||
+| Circle |||
+| Gem |||
+| Bloomberg |||
+| Oracle |||
+| HubSpot |||
+| Elastic |||
+| Stripe |||
+| DraftKings |||
+| SeedFi || on Canvas |
+| GoDaddy || on Canvas |
+| ServiceNow |||
+| McDonald's |||
+| DoorDash |||
+| Viasat |||
+| Rev |||
+| Vise |||
+| Twitch || Can apply to entry level |
+| Pinterest |||
+| TikTok |||
+| Jerry |||
+| SingleStore (MemSQL) |||
+| Workday |||
+| Otter AI |||
+| Tubular Labs |||
+| Hewlett Packard Enterprise |||
+| Yext |||
 | Blend ||||
 | WeRide AI ||||
 | Scale AI ||||
