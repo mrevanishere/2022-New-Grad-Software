@@ -122,6 +122,16 @@ By unit_test
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Indeed | 
+| amdocs |
+| SAP | Rotational
+| Swoop Search | on Angel
+| TJX |
+| Mastercard |
+| zscaler |
+| Raytheon |
+| Ocient |
+| GOAT Group |
 | Jane Street |
 | HRT |
 | Grubhub | 
@@ -152,13 +162,4 @@ By unit_test
 | Lockheed Martin |
 | Cognex |
 | HNTB |
-| TJX |
-| Mastercard |
-| amdocs |
-| zscaler |
-| Raytheon |
-| SAP | Rotational
-| Swoop Search | on Angel
-| Indeed | 
-| Ocient |
-| GOAT Group |
+
