@@ -3,8 +3,8 @@ By unit_test
 
 - [FAQ](#FAQ)
 - [Disclaimer](#disclaimer)
-- [Postings I applied to](# Postings I applied to)
-- [Postings I didn't apply to](# Postings I didn't apply to)
+- [Postings](# Postings I applied to)
+- [Other Postings](# Postings I didn't apply to)
 
 
 
