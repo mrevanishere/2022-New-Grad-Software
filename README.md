@@ -7,9 +7,10 @@ By unit_test
 * I won't post links unless hard to find.
 * I'm trying to be as accurate as possible for 2022 postings (no random junior positions or 2021 postings)
 * New postings added to top
+* Postings separated into `Postings I applied to` and `Postings I didn't apply to`
 
 
-# Postings
+# Postings I applied to
 
 | Company Name              | Location                         | Application URL                                              | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -117,7 +118,7 @@ By unit_test
 | stytch ||||
 | Nvidia ||| Various |
 
-# Other postings I'm not applying to / haven't applied to yet:
+# Postings I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
@@ -159,4 +160,6 @@ By unit_test
 | Raytheon |
 | SAP | Rotational
 | Swoop Search | on Angel
-
+| Indeed | 
+| Ocient |
+| GOAT Group |
