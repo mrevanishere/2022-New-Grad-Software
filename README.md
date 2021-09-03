@@ -145,6 +145,7 @@ Companies I didn't apply to
 | Indeed | 
 | amdocs |
 | SAP | Rotational
+| Aquatic |
 | Swoop Search | on Angel
 | TJX |
 | Mastercard |
@@ -182,4 +183,3 @@ Companies I didn't apply to
 | Lockheed Martin |
 | Cognex |
 | HNTB |
-
