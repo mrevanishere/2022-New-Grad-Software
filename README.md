@@ -33,6 +33,8 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Better | NYC | Associate SWE Campus |
+| Orchard | NYC ||
 | Discovery | Washington ||
 | Indeed | Remote US, Tokyo | [Remote, USA](https://ur-careers-indeed.icims.com/jobs/32368/job) |
 | SeatGeek | NY ||
@@ -145,6 +147,7 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Factset |
 | Revantage |
 | Public Sapient | 
 | Intel | various postings
