@@ -148,6 +148,7 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Ampere Computing | 
 | Factset |
 | Revantage |
 | Public Sapient | 
