@@ -33,10 +33,11 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Expedia | Chicago - Austin | Graduate SDE - Graduate Data Eng
 | Better | NYC | Associate SWE Campus |
 | Orchard | NYC ||
 | Discovery | Washington ||
-| Indeed | Remote US, Tokyo | [Remote, USA](https://ur-careers-indeed.icims.com/jobs/32368/job) |
+| Indeed | Remote US - Tokyo | [Remote, USA](https://ur-careers-indeed.icims.com/jobs/32368/job) |
 | SeatGeek | NY ||
 | F5 Networks | Bay Area ||
 | Earnin | Bay Area ||
@@ -45,7 +46,7 @@ I applied to
 | Emile Learning | Los Angeles | on Angel |
 | cadence | Bay Area ||
 | NerdWallet | Remote ||
-| Sunshine | Remote,  Bay Area ||
+| Sunshine | Remote - Bay Area ||
 | Circle | Remote ||
 | Gem | Bay Area ||
 | Bloomberg |||
@@ -60,8 +61,8 @@ I applied to
 | McDonald's |||
 | DoorDash | Bay Area ||
 | Viasat | Bay Area ||
-| Rev | Bay Area, Austin ||
-| Vise | Bay Area, NYC ||
+| Rev | Bay Area - Austin ||
+| Vise | Bay Area - NYC ||
 | Twitch | Bay Area | Can apply to entry level |
 | Pinterest | Bay Area ||
 | TikTok | Bay Area ||
@@ -138,7 +139,7 @@ I applied to
 | Asana | Bay Area ||
 | Amazon  |||
 | The Voleon Group | Bay Area ||
-| vmware | Bay Area, Remote| Launch |
+| vmware | Bay Area - Remote| Launch |
 | stytch | Bay Area ||
 | Nvidia || Various |
 
