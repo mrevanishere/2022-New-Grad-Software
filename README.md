@@ -149,6 +149,7 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Revantage |
 | Ampere Computing | 
 | Factset |
 | Revantage |
