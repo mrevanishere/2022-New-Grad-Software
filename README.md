@@ -33,6 +33,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Coursera | Bay Area - Remote | 
 | Expedia | Washington - Chicago - Austin | Graduate SDE - Graduate Data Eng
 | Better | NYC | Associate SWE Campus |
 | Orchard | NYC ||
