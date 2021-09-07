@@ -33,6 +33,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Applied Intuition | LA or Bay Area
 | Splunk | Remote | 
 | Coursera | Bay Area - Remote | 
 | Expedia | Washington - Chicago - Austin | Graduate SDE - Graduate Data Eng
