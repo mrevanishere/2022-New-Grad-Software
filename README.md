@@ -33,6 +33,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Squarespace | NYC | 
 | Applied Intuition | LA or Bay Area
 | Splunk | Remote | 
 | Coursera | Bay Area - Remote | 
