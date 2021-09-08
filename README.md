@@ -155,7 +155,6 @@ Companies I didn't apply to
 | Revantage |
 | Ampere Computing | 
 | Factset |
-| Revantage |
 | Public Sapient | 
 | Intel | various postings
 | amdocs |
