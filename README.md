@@ -33,6 +33,8 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| C3.ai | Bay Area
+| Chewy | Washington - Boston
 | Squarespace | NYC | 
 | Applied Intuition | LA or Bay Area
 | Splunk | Remote | 
