@@ -33,7 +33,8 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| C3.ai | Bay Area
+| EverQuote | Cambridge | 
+| C3.ai | Bay Area | 
 | Chewy | Washington - Boston
 | Squarespace | NYC | 
 | Applied Intuition | LA or Bay Area
@@ -154,9 +155,9 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Ford | Detroit | 
 | Revantage |
 | Ampere Computing | 
-| Factset |
 | Public Sapient | 
 | Intel | various postings
 | amdocs |
