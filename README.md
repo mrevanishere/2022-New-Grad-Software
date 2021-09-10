@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Abnormal Security | Bay Area
 | Ebay | 
 | EverQuote | Cambridge | 
 | C3.ai | Bay Area | 
