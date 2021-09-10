@@ -15,6 +15,8 @@ By unit_test
 * Postings separated into `Postings I applied to` and `Postings I didn't apply to`
 
 ### FAQ
+#### When did you apply?
+* ...
 #### How to apply to jobs faster (greenhouse, workday, lever)
 * Use [Kumquat Extension](https://chrome.google.com/webstore/detail/kumquat/mkjkimankkfhefaabddppkhbobffaadp?hl=en-US)
 #### Is this repo up to date?
@@ -33,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Ebay | 
 | EverQuote | Cambridge | 
 | C3.ai | Bay Area | 
 | Chewy | Washington - Boston
