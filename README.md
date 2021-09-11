@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| RetailMeNot | Remote
 | Sentry | Bay Area
 | Abnormal Security | Bay Area
 | Ebay | 
