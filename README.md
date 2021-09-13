@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Qualia | Bay Area
 | RetailMeNot | Remote
 | Sentry | Bay Area
 | Abnormal Security | Bay Area
