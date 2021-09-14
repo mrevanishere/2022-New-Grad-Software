@@ -35,6 +35,8 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Flatiron Health | NYC
+| Sprig | Bay Area
 | Qualia | Bay Area
 | RetailMeNot | Remote
 | Sentry | Bay Area
