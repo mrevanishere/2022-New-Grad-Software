@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| eightfold.ai | Bay Area
 | Flatiron Health | NYC
 | Sprig | Bay Area
 | Qualia | Bay Area
