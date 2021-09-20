@@ -35,6 +35,8 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Atlassian | | only SRE is out
+| Twitter | 
 | Adobe | Bay Area
 | eightfold.ai | Bay Area
 | Flatiron Health | NYC
