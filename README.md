@@ -35,7 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| Atlassian | | only SRE is out
+| Atlassian | | SRE and SWE
 | Twitter | 
 | Adobe | Bay Area
 | eightfold.ai | Bay Area
