@@ -169,6 +169,7 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| WillowTree | | Canvas
 | Ford | Detroit | 
 | Revantage |
 | Ampere Computing | 
