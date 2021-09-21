@@ -35,7 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| GoLinks
+| GoLinks | Bay Area 
 | Atlassian | | SRE and SWE
 | Twitter | 
 | Adobe | Bay Area
