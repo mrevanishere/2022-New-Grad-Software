@@ -35,7 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| Bolt | San Diego | 
+| Bolt | Bay Area | 
 | Confluent | Remote
 | GoLinks | Bay Area 
 | Atlassian | | SRE and SWE
