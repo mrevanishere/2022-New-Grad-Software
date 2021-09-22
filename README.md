@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Confluent | Remote
 | GoLinks | Bay Area 
 | Atlassian | | SRE and SWE
 | Twitter | 
