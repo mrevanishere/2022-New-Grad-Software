@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| PathAI
 | Bolt | Bay Area | 
 | Confluent | Remote
 | GoLinks | Bay Area 
