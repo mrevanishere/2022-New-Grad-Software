@@ -35,6 +35,8 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Forward | Bay Area
+| Flexport
 | PathAI
 | Bolt | Bay Area | 
 | Confluent | Remote
@@ -172,6 +174,8 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| American Express
+| SunPower Corporation
 | WillowTree | | Canvas
 | Ford | Detroit | 
 | Revantage |
