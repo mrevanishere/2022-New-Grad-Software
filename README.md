@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Netflix |
 | Forward | Bay Area
 | Flexport
 | PathAI
