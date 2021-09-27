@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Glean | Bay Area
 | Netflix |
 | Forward | Bay Area
 | Flexport
