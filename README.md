@@ -36,7 +36,7 @@ I applied to
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
 | Pure Storage | Bay Area
-| Glean | Bay Area
+| Glean.com | Bay Area
 | Netflix |
 | Forward | Bay Area
 | Flexport
