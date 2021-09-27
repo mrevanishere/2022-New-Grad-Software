@@ -141,7 +141,7 @@ I applied to
 | Cruise | Bay Area ||
 | neeva | Bay Area ||
 | Duolingo | Pittsburgh ||
-| Nuro |||
+| Nuro || SWE and SRE
 | Paypal | Bay Area ||
 | secureframe |||
 | JPMorgan |||
