@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Gusto
 | Pure Storage | Bay Area
 | Glean.com | Bay Area
 | Netflix |
