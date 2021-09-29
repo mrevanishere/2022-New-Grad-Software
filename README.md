@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Domino Data Lab | 
 | Gusto
 | Pure Storage | Bay Area
 | Glean.com | Bay Area
