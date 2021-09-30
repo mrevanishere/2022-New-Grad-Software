@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Cockroach Labs
 | Domino Data Lab | 
 | Gusto
 | Pure Storage | Bay Area
