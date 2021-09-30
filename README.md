@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Square | Bay Area
 | Cockroach Labs
 | Domino Data Lab | 
 | Gusto
