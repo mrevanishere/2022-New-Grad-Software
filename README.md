@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Impira
 | Square | Bay Area
 | Cockroach Labs
 | Domino Data Lab | 
