@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Persona | Bay Area
 | Impira
 | Square | Bay Area
 | Cockroach Labs
