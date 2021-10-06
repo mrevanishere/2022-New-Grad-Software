@@ -35,6 +35,10 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Newfront Insurance 
+| Aerospike, Inc.
+| Quantcast
+| Cerebrae
 | Persona | Bay Area
 | Impira
 | Square | Bay Area
