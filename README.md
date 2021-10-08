@@ -36,6 +36,9 @@ I applied to
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
 | Newfront Insurance 
+| Grand Rounds Health || Multiple Positions
+| Slack 
+| Newfront Insurance 
 | Aerospike, Inc.
 | Quantcast
 | Cerebrae
@@ -187,6 +190,9 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Aerospike, Inc
+| Quantcast
+| Cerebrae
 | collab
 | American Express
 | SunPower Corporation
