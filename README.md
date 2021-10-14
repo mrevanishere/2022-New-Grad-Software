@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Crowdstrike | Remote
 | Cloudfare
 | Netskope | Bay Area
 | Newfront Insurance 
