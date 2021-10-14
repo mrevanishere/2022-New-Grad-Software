@@ -194,6 +194,7 @@ Companies I didn't apply to
 
 | Company Name              | Notes |
 | ------------------------  | ------------------------  |
+| Pendo
 | Aerospike, Inc
 | Quantcast
 | Cerebrae
