@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| Crowdstrike
 | Cohesity | Bay Area
 | substack | Bay Area
 | Crowdstrike | Remote
