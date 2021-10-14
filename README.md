@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| substack | Bay Area
 | Crowdstrike | Remote
 | Cloudfare
 | Netskope | Bay Area
