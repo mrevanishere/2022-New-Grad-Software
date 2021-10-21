@@ -35,6 +35,7 @@ I applied to
 
 | Company Name              | Location                         | Notes                                                        |
 | ------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| AppLovin | Bay Area
 | Chainalysis | NYC
 | Crowdstrike
 | Cohesity | Bay Area
