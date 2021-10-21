@@ -7,6 +7,7 @@ By unit_test
 - [More Postings](#more-postings)
 
 ### Disclaimer
+* Not being updated anymore as of 2021-10-21
 * This is more of a personal list and doesn't have *every* posting. Sorry.
 * Mainly focused on USA.
 * I won't post links unless hard to find.
